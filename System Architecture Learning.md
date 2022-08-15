@@ -1,0 +1,1 @@
+- [ ] Rest Services should not be built as entity services; offering direct CRUD over your DB entities. They should instead be explicit about the business logic they are trying to encapsulate.
